@@ -12,8 +12,14 @@ The study on student suicides in India highlights the seriousness and prevalence
 ## Power BI Dashboard
 
 <ul style="list-style-type:circle;">
-  <li>Dataset: https://www.kaggle.com/shivamb/netflix-shows .</li>
-  <li> My Notebook : https://www.kaggle.com/code/nidhiy07/netflix-data-analysis </li>
+  <li> My Dashboard : https://mavenanalytics.io/project/6692 </li>
 </ul>
 
 ![Suicide Rate Analysis - ny_page-0001](https://github.com/nidhiy7/Netflix_Data_Analysis_using_Power_Bi_Tableau_Dashboard/assets/80893000/334555fc-b2ab-4ddb-926b-b416bb240d6b)
+
+## About this project
+- The dashboard covers the period from 2001 to 2020 and utilizes various graph types such as bar charts, line charts, and pie charts for visualization.
+- The interactive features of the dashboard, including drill-downs, slicers, and filters, allow users to explore specific states, years, and criteria for deeper insights.
+- The analysis reveals that Maharashtra, Odisha, and Madhya Pradesh have the highest number of suicides in India.
+- Over the past two decades, student suicides in India have been increasing, with male students being more affected than females.
+- The COVID-19 pandemic had a significant impact on student suicides in 2020. Forecasting algorithms applied to historical data suggest that the student suicide problem in India is likely to worsen in the future, with a few exceptions.
