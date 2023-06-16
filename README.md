@@ -1,8 +1,8 @@
-# SUICIDE_RATE_ANALYSIS_USING_POWERBI_SQL
+# ANALYZE_STUDENT_SUICIDE_IN_INDIA_USING_POWERBI_SQL
 ## Introduction
 The study on student suicides in India highlights the seriousness and prevalence of the problem. It proposes steps such as increasing awareness, strengthening mental health services, implementing preventive measures, promoting emotional well-being, and fostering collaboration among stakeholders. These measures aim to mitigate student depression and suicide by creating a supportive environment and providing necessary resources and support.
 
-## Project OBjective
+## Project Objective
 
 1.	Analyse the data available in public data to identify trends, generate forecasts and use statistical tools to identify and highlights the key points in relation to the problem of student suicides.
 2.	Establish predictive factors that can be attributed to student depression.
